@@ -10,3 +10,4 @@ CREATE TABLE BankTransactionData
 	Fee INT,
 	DateTransaction DATE
 );
+--primary key should be defined
